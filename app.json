@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "notifications",
+    "projectId": "notifications"
+,    "name": "notifications",
     "slug": "notifications",
     "version": "1.0.0",
     "orientation": "portrait",
